@@ -7,6 +7,7 @@ public class HelloWorld {
             System.out.println("i = " + i);
             //学习使用git
             //学习使用分支
+            //学习分支的合并
         }
     }
 }
